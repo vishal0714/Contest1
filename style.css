@@ -1,0 +1,28 @@
+
+strong{
+    font-style: italic;
+}
+
+.link a{
+    color: black;
+} 
+.head{
+    border: 2px solid black;
+    margin: 15px ;
+    padding: 10px;
+}
+.image img{
+    height: 400px;
+    width: 650px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.image a{
+    margin: 15px;
+}
+
+h1{
+    text-decoration: underline;
+    margin: 10px;
+}
